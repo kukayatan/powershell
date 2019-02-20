@@ -1,1 +1,1 @@
-# small application for remote checking, adding and removing pc admin rights 
+# small application that enable to remotely check, add and remove pc admin rights 
